@@ -1,11 +1,18 @@
 {
   "expo": {
-    "name": "tinder",
-    "slug": "tinder",
+    "name": "cfg",
+    "slug": "cfg",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": "",
+    "android": {
+      "package": "com.sanchit34.cfg"
+    },
+    "ios": {
+      "bundleIdentifier": "com.sanchit34.cfg"
+    }
   },
-  "name": "tinder"
+  "name": "cfg"
 }

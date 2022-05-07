@@ -1,4 +1,4 @@
-package com.tinder;
+package com.sanchit34.cfg;
 
 import android.os.Build;
 import android.os.Bundle;
